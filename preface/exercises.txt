@@ -1,0 +1,12 @@
+1.  A rating of "M20" corresponds to a mathematically oriented problem which
+    should require about 15 minutes of work to solve.
+
+2.  The exercises in a textbook can be a great value to the reader, particularly
+    if the reader is not taking a class associated with the text. One cannot
+    learn much by reading alone, therefore a textbook's exercises provide the
+    reader the opportunity to really grasp and apply the material from the book.
+
+3.  I provide a link to a similar proof which may be generalized to
+    multiplication and then power: http://www.cs.yale.edu/homes/as2446/224.pdf.
+
+4.  I defer my solution to Andrew Wiles of Cambridge University.
